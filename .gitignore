@@ -1,0 +1,20 @@
+# Local workspace metadata
+/.agents/
+/.aws/
+/.codex/
+
+# Local source files
+/local/
+/*.pdf
+/*.mp4
+/*.zip
+/paper-source/
+
+# Generated output and browser previews
+/build/
+/dist/
+/previews/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
